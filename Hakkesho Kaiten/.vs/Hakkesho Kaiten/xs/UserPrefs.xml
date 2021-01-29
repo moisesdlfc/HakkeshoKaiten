@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{36A0A854-7B17-82E3-FDC9-53159CAD3AC6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GeneralScripts/PlayerMotor.cs">
+    <Files>
+      <File FileName="Assets/GeneralScripts/PlayerMotor.cs" Line="128" Column="67" />
+      <File FileName="Assets/GeneralScripts/CameraFollower.cs" Line="39" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hakkesho Kaiten" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="49df95e0-dcbf-4af6-99cb-d6cc30e9a56a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
